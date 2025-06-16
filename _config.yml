@@ -1,71 +1,137 @@
-# Site settings
-title: "Qunying Zhang"
-email: zhangqunying243@gmail.com
-description: "Personal Website of Qunying Zhang — PhD Applicant in Machine Learning, NLP, and Quantitative Research"
-baseurl: "" # the subpath of your site, e.g. /blog
-url: "https://quinn243.github.io" # the base hostname & protocol for your site
+###########################################################
+### Qunying Zhang Personal Website Config (Beautiful Jekyll format)
+###########################################################
 
-# SEO (prevent search engines from indexing)
+############################
+# --- Required options --- #
+############################
+
+title: "Qunying Zhang"
+author: "Qunying Zhang"
+
+###############################################
+# --- List of links in the navigation bar --- #
+###############################################
+
+navbar-links:
+  Home: "index"
+  Research Interests: "research"
+  CV: "cv"
+  Contact: "contact"
+
+################
+# --- Logo --- #
+################
+
+avatar: "/assets/img/avatar-icon.png"
+round-avatar: true
+
+#####################################
+# --- Footer social media links --- #
+#####################################
+
+social-network-links:
+  email: "zhangqunying243@gmail.com"
+  github: "Quinn243"
+  linkedin: ""  # You can add your LinkedIn username here if you want
+  telephone: "+14126188438"
+
+rss-description: "Qunying Zhang - Personal Website for PhD Application"
+
+###########################
+# --- General options --- #
+###########################
+
+share-links-active:
+  twitter: false
+  facebook: false
+  linkedin: false
+  reddit: false
+
+url-pretty: "quinn243.github.io"
+title-on-all-pages: true
+excerpt_length: 50
+feed_show_excerpt: true
+feed_show_tags: true
+post_search: true
+edit_page_button: true
+navbar-var-length: false
+
+# Block search engine indexing
 robots: noindex
 
-# Author info
-author:
-  name: "Qunying Zhang"
-  email: zhangqunying243@gmail.com
-  phone: "+1-412-618-8438"
-  location: "Boston, MA"
+######################################
+# --- Colours / background image --- #
+######################################
 
-# Social links (feel free to add if you have these)
-twitter_username: ""
-github_username: "Quinn243"
-linkedin_username: ""
-orcid: ""
+page-col: "#FFFFFF"
+text-col: "#404040"
+link-col: "#008AFF"
+hover-col: "#0085A1"
+navbar-col: "#EAEAEA"
+navbar-text-col: "#404040"
+navbar-border-col: "#DDDDDD"
+footer-col: "#EAEAEA"
+footer-text-col: "#777777"
+footer-link-col: "#404040"
+footer-hover-col: "#0085A1"
 
-# Build settings
+#################################
+# --- Web Analytics Section --- #
+#################################
+
+gtag: ""  # Leave empty unless you want Google Analytics
+
+####################
+# --- Comments --- #
+####################
+
+# (disabled for now)
+
+################
+# --- Misc --- #
+################
+
+date_format: "%B %-d, %Y"
+
+#################################################################################
+# --- You don't need to touch anything below here (but you can if you want) --- #
+#################################################################################
+
+timezone: "America/New_York"
 markdown: kramdown
-theme: beautiful-jekyll
+highlighter: rouge
+permalink: /:year-:month-:day-:title/
+paginate: 5
+
+kramdown:
+  input: GFM
+
+defaults:
+  -
+    scope:
+      path: ""
+      type: "posts"
+    values:
+      layout: "post"
+      comments: false
+      social-share: false
+  -
+    scope:
+      path: ""
+    values:
+      layout: "page"
+
+exclude:
+  - CHANGELOG.md
+  - CNAME
+  - Gemfile
+  - Gemfile.lock
+  - LICENSE
+  - README.md
+  - screenshot.png
+  - docs/
+
 plugins:
-  - jekyll-feed
-  - jekyll-seo-tag
-
-# Personal information to show on homepage (optional)
-education:
-  - school: "Carnegie Mellon University"
-    degree: "Master of Computational Finance"
-    location: "Pittsburgh, PA"
-    graduation: "Dec 2019"
-  - school: "Shanghai Jiao Tong University"
-    degree: "B.Sc. Physics (Honor Program)"
-    location: "Shanghai, China"
-    graduation: "Jun 2018"
-
-experience:
-  - job: "Senior Investment Analyst (Quant Research)"
-    company: "Mackenzie Investments"
-    location: "Boston, MA"
-    dates: "Mar 2020 – Present"
-  - job: "Data Science Intern"
-    company: "Arch Capital Group"
-    location: "Raleigh, NC"
-    dates: "Jun 2019 – Aug 2019"
-
-skills:
-  - Python (Numpy, Scipy, Pandas, Scikit-learn, Keras, Tensorflow, HuggingFace)
-  - SQL
-  - C++
-  - R
-  - MATLAB
-  - Linux (basic administration)
-  - AWS EC2
-
-# Footer info
-footer-links-active:
-  email: true
-  github: true
-  linkedin: false
-
-# Google Analytics (optional if you want traffic stats)
-google_analytics: ""
-
-# Optional: CV link (put your PDF CV in /assets/ folder)
-cv_link: "/assets/cv.pdf"
+  - jekyll-paginate
+  - jekyll-sitemap
