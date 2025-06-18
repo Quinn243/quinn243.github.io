@@ -2,8 +2,7 @@
 layout: post
 title: Self Introduction
 subtitle: From Physics to Quant Research, now pursuing AI research
-cover-img: /assets/img/background.png   # <-- use wide banner-style image here
-thumbnail-img: /assets/img/selfie1.png  # <-- used in post previews (e.g. homepage)
+cover-img: /assets/img/background.png
 gh-repo: zhangqunying
 tags: [self-introduction]
 comments: false
@@ -36,12 +35,4 @@ While my professional work has been centered around quantitative finance, my lon
 I first encountered Machine Learning during my undergraduate research at Prof. Alexandre Thiéry’s lab, where I explored **Generative Adversarial Networks (GANs)** and **Variational Autoencoders (VAEs)** for medical image analysis. Later, I completed my undergraduate thesis on **image deblurring algorithms**.
 
 During my master's study at CMU, I was deeply fascinated by **dimensionality reduction**, **representation learning**, and **theoretical aspects of ML**. More recently, in my industry work, I have applied **Large Language Models (LLMs)** to process financial texts, earning calls, and industrial news data. However, I find myself unsatisfied with simply applying models — I hope to contribute to the design and development of next-generation AI models that generalize across modalities and tasks.
-
-## A Table Summary
-
-| Degree | Institution | Field |
-| :------ |:--- | :--- |
-| B.Sc | Shanghai Jiao Tong University | Physics |
-| M.Sc | Carnegie Mellon University | Computational Finance |
-| Current | Boston | Quantitative Researcher |
 
