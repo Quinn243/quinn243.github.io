@@ -8,8 +8,9 @@ title: ""
     <h2 style="font-size: 1.8rem; font-weight: 600;">Qunying Zhang</h2>
     <p style="font-size: 1rem; color: #666;">Quantitative Researcher in Boston | PhD Applicant in AI/ML</p>
   </div>
-  <div class="col-md-4 text-md-end text-center">
-    <img src="/assets/img/selfie2.png" alt="Selfie" style="max-width: 180px; border-radius: 12px;">
+  <div class="col-md-4 text-md-end text-center pe-md-5">
+    <img src="/assets/img/selfie3.jpg" alt="Selfie"
+         class="ms-auto d-block" style="max-width: 180px; border-radius: 12px;">
   </div>
 </div>
 
@@ -38,18 +39,6 @@ I first encountered Machine Learning during my undergraduate research at Prof. A
 
 During my master's study at CMU, I was deeply fascinated by **dimensionality reduction**, **representation learning**, and **theoretical aspects of ML**. More recently, in my industry work, I have applied **Large Language Models (LLMs)** to process financial texts, earning calls, and industrial news data. However, I find myself unsatisfied with simply applying models — I hope to contribute to the design and development of next-generation AI models that generalize across modalities and tasks.
 
-## A Table Summary
-
-| Degree | Institution | Field |
-| :------ |:--- | :--- |
-| B.Sc | Shanghai Jiao Tong University | Physics |
-| M.Sc | Carnegie Mellon University | Computational Finance |
-| Current | Boston | Quantitative Researcher |
-
-
-
-- 📧 **Email**: [zhangqunying243@gmail.com](mailto:zhangqunying243@gmail.com)
-- 📱 **Phone**: +1 (123) 456-7890
 
 {: .box-note}
 **Note:** Please email me for academic or professional inquiries. I typically respond within 2–3 business days.
