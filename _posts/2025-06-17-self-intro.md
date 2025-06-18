@@ -1,12 +1,10 @@
 ---
 layout: post
-title: Self Introduction - PhD Applicant
-subtitle: From Physics to Quantitative Finance, now pursuing AI research
+title: Self Introduction
+subtitle: From Physics to Quant Research, now pursuing AI research
 cover-img: /assets/img/selfie1.png
-gh-repo: zhangqunying/phd-application
-gh-badge: [star, fork, follow]
-tags: [self-introduction, phd, ai, ml, robotics]
-share-img: /assets/img/selfie2.png
+gh-repo: zhangqunying
+tags: [self-introduction]
 comments: false
 mathjax: true
 author: Qunying Zhang
