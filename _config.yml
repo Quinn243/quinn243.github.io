@@ -15,7 +15,7 @@ author: "Qunying Zhang"
 
 navbar-links:
   Home: "index"
-  Research Interests: "research"
+  Research Interests: "tags#research"
   CV: "/assets/cv.pdf"
   Contact: "contact"
 

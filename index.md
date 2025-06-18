@@ -1,7 +1,17 @@
 ---
 layout: home
-title: My website
+title: ""
 ---
+
+<div class="row align-items-center mb-4">
+  <div class="col-md-8">
+    <h2 style="font-size: 1.8rem; font-weight: 600;">Qunying Zhang</h2>
+    <p style="font-size: 1rem; color: #666;">Quantitative Researcher in Boston | PhD Applicant in AI/ML</p>
+  </div>
+  <div class="col-md-4 text-md-end text-center">
+    <img src="/assets/selfie2.png" alt="Selfie" style="max-width: 180px; border-radius: 12px;">
+  </div>
+</div>
 
 Thank you for visiting my page! This serves as a brief self-introduction as part of my PhD application materials.
 
