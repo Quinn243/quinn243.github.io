@@ -7,7 +7,6 @@ gh-repo: zhangqunying
 tags: [self-introduction]
 comments: false
 mathjax: true
-author: Qunying Zhang
 ---
 
 {: .box-success}
@@ -15,7 +14,7 @@ Thank you for visiting my page! This serves as a brief self-introduction as part
 
 **About Me**
 
-I am Qunying Zhang, currently working as a Quantitative Researcher in Boston. I have a multidisciplinary academic background in **Physics** (B.Sc, Shanghai Jiao Tong University) and **Computational Finance** (M.Sc, Carnegie Mellon University). Over the past five years, I have been applying advanced quantitative methods and machine learning models to financial data in the asset management industry.
+I am currently working as a Quantitative Researcher in Boston. I have a multidisciplinary academic background in **Physics** (B.Sc, Shanghai Jiao Tong University) and **Computational Finance** (M.Sc, Carnegie Mellon University). Over the past five years, I have been applying advanced quantitative methods and machine learning models to financial data in the asset management industry.
 
 ## My Research Interests
 
