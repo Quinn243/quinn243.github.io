@@ -46,16 +46,3 @@ During my master's study at CMU, I was deeply fascinated by **dimensionality red
 | M.Sc | Carnegie Mellon University | Computational Finance |
 | Current | Boston | Quantitative Researcher |
 
-## Math Demonstration (LaTeX)
-
-For example, my interest in generative modeling includes solving equations such as:
-$$\min_G \max_D \mathbb{E}_{x \sim p_\text{data}}[\log D(x)] + \mathbb{E}_{z \sim p_z}[\log(1 - D(G(z)))]$$
-
-## Sample Code Snippet
-
-```python
-import torch
-from transformers import AutoModel
-
-model = AutoModel.from_pretrained("bert-base-uncased")
-output = model(**inputs)
