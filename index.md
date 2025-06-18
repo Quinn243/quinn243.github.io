@@ -35,7 +35,7 @@ While my professional work has been centered around quantitative finance, my lon
 
 ## My Journey So Far
 
-I first encountered Machine Learning during my undergraduate research at Prof. Alexandre Thiéry’s lab, where I explored **Generative Adversarial Networks (GANs)** and **Variational Autoencoders (VAEs)** for medical image analysis. Later, I completed my undergraduate thesis on **image deblurring algorithms**.
+I first encountered Machine Learning during my undergraduate research at Prof. Alexandre Thiéry’s lab, where I explored **Generative Adversarial Networks (GANs)** and **Variational Autoencoders (VAEs)** for medical image data augmentation for downstream analysis. Later, I completed my undergraduate thesis on **image deblurring algorithms**.
 
 During my master's study at CMU, I was deeply fascinated by **dimensionality reduction**, **representation learning**, and **theoretical aspects of ML**. More recently, in my industry work, I have applied **Large Language Models (LLMs)** to process financial texts, earning calls, and industrial news data. However, I find myself unsatisfied with simply applying models — I hope to contribute to the design and development of next-generation AI models that generalize across modalities and tasks.
 
