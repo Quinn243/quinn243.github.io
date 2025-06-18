@@ -12,4 +12,4 @@ You’re welcome to reach out to me via the following methods:
 {: .box-note}
 **Note:** Please email me for academic or professional inquiries. I typically respond within 2–3 business days.
 
-If you're interested in my background, check out my [CV](/assets/files/CV.pdf){: download }.
+If you're interested in my background, check out my [CV](/assets/cv.pdf){: download }.

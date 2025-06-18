@@ -9,7 +9,7 @@ title: ""
     <p style="font-size: 1rem; color: #666;">Quantitative Researcher in Boston | PhD Applicant in AI/ML</p>
   </div>
   <div class="col-md-4 text-md-end text-center">
-    <img src="/assets/selfie2.png" alt="Selfie" style="max-width: 180px; border-radius: 12px;">
+    <img src="/assets/img/selfie2.png" alt="Selfie" style="max-width: 180px; border-radius: 12px;">
   </div>
 </div>
 
