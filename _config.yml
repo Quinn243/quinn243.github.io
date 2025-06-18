@@ -6,8 +6,8 @@
 # --- Required options --- #
 ############################
 
-title: "Qunying Zhang"
-author: "Qunying Zhang"
+#title: "Qunying Zhang"
+#author: "Qunying Zhang"
 
 ###############################################
 # --- List of links in the navigation bar --- #
@@ -15,7 +15,7 @@ author: "Qunying Zhang"
 
 navbar-links:
   Home: "index"
-  Research Interests: "research"
+#  Research Interests: "research"
   CV: "/assets/file/cv.pdf"
   Contact: "contact"
 
