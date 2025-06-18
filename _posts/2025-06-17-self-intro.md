@@ -2,7 +2,8 @@
 layout: post
 title: Self Introduction
 subtitle: From Physics to Quant Research, now pursuing AI research
-cover-img: /assets/img/selfie1.png
+cover-img: /assets/img/background.png   # <-- use wide banner-style image here
+thumbnail-img: /assets/img/selfie1.png  # <-- used in post previews (e.g. homepage)
 gh-repo: zhangqunying
 tags: [self-introduction]
 comments: false
